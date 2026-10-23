@@ -15,7 +15,6 @@ export const nav = {
     { label: "Product", href: "#product" },
     { label: "Why IPAiC", href: "#why-ipaic" },
     { label: "Our Mission", href: "#mission" },
-    { label: "Pilot Program", href: "#pilot" },
   ],
   cta: "Request a Demo",
 };
@@ -29,7 +28,6 @@ export const hero = {
     "Designed to support — not replace — Infection Prevention expertise.",
   primaryCta: "Request a Demo",
   secondaryCta: "Explore ARIA",
-  tertiaryCta: "Learn more about a Pilot",
 };
 
 export const introduction = {
@@ -190,23 +188,6 @@ export const mission = {
   body: brand.mission,
 };
 
-export const pilot = {
-  eyebrow: "PILOT PROGRAM",
-  heading: "Help shape the future of infection surveillance.",
-  body: [
-    "We are engaging with healthcare organizations and Infection Prevention leaders to evaluate",
-    "real-world workflows, refine ARIA, and identify opportunities for pilot implementation.",
-  ],
-  subBody:
-    "We are especially interested in working with organizations that want to explore how AI‑enabled surveillance support can reduce manual review while keeping Infection Prevention professionals at the center of every decision.",
-  pillars: [
-    { title: "Validate", description: "Evaluate IPAiC against real Infection Prevention surveillance workflows." },
-    { title: "Collaborate", description: "Work directly with Infection Prevention professionals, leadership, and informatics teams." },
-    { title: "Shape", description: "Help inform usability, workflow design, integration priorities, and future implementation." },
-  ],
-  primaryCta: "Inquire About the Pilot Program",
-};
-
 export const contact = {
   heading: "Let's Connect.",
   body: "Whether you're exploring a product demo, evaluating a pilot opportunity, or simply interested in how IPAiC could fit into your surveillance program, we'd like to hear from you.",
@@ -236,7 +217,6 @@ export const footer = {
     { label: "Product", href: "#product" },
     { label: "Why IPAiC", href: "#why-ipaic" },
     { label: "Our Mission", href: "#mission" },
-    { label: "Pilot Program", href: "#pilot" },
     { label: "Contact", href: "#contact" },
   ],
   legal: [

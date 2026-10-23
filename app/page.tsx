@@ -7,7 +7,6 @@ import { WhyIPAIC } from "@/components/WhyIPAIC";
 import { TrustSection } from "@/components/TrustSection";
 import { UseCases } from "@/components/UseCases";
 import { MissionSection } from "@/components/MissionSection";
-import { PilotProgram } from "@/components/PilotProgram";
 import { ContactSection } from "@/components/ContactSection";
 import { Footer } from "@/components/Footer";
 
@@ -24,7 +23,6 @@ export default function Home() {
         <TrustSection />
         <UseCases />
         <MissionSection />
-        <PilotProgram />
         <ContactSection />
       </main>
       <Footer />

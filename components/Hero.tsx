@@ -38,13 +38,6 @@ export function Hero() {
             </CTAButton>
           </div>
 
-          <a
-            href="#pilot"
-            className="w-fit text-sm font-medium text-white/70 underline-offset-4 transition-colors hover:text-white hover:underline"
-          >
-            {hero.tertiaryCta}
-          </a>
-
           <p className="mt-1 max-w-xl border-t border-white/10 pt-4 text-sm text-white/60 sm:whitespace-nowrap">
             {hero.supportingLine}
           </p>
